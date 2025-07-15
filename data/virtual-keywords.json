@@ -1,0 +1,389 @@
+{
+  "categories": {
+    "vr-metaverse": {
+      "title": "Virtual Reality & Metaverse",
+      "description": "Explore VR technology, virtual worlds, and metaverse concepts",
+      "keywords": [
+        {
+          "name": "Virtual Reality",
+          "slug": "virtual-reality",
+          "definition": "Computer-generated simulation of a three-dimensional environment that can be interacted with using special electronic equipment.",
+          "searchTerms": ["VR", "virtual reality", "immersive reality"],
+          "popularity": 95
+        },
+        {
+          "name": "Virtual Worlds",
+          "slug": "virtual-worlds",
+          "definition": "Computer-based simulated environments inhabited by many users who are represented by avatars.",
+          "searchTerms": ["virtual worlds", "digital worlds", "online worlds"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Environment",
+          "slug": "virtual-environment",
+          "definition": "A simulated space created by computer software that users can interact with.",
+          "searchTerms": ["virtual environment", "VE", "simulated environment"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Space",
+          "slug": "virtual-space",
+          "definition": "Digital area where users can interact with objects and other users in a simulated environment.",
+          "searchTerms": ["virtual space", "digital space", "cyber space"],
+          "popularity": 75
+        },
+        {
+          "name": "Metaverse",
+          "slug": "metaverse",
+          "definition": "A collective virtual shared space created by convergence of virtually enhanced physical reality and physically persistent virtual space.",
+          "searchTerms": ["metaverse", "meta verse", "virtual universe"],
+          "popularity": 90
+        },
+        {
+          "name": "Virtual Avatar",
+          "slug": "virtual-avatar",
+          "definition": "A digital representation of a person in virtual environments and online communities.",
+          "searchTerms": ["virtual avatar", "digital avatar", "online persona"],
+          "popularity": 70
+        },
+        {
+          "name": "Virtual Presence",
+          "slug": "virtual-presence",
+          "definition": "The subjective experience of being in one place or environment when physically situated in another.",
+          "searchTerms": ["virtual presence", "telepresence", "digital presence"],
+          "popularity": 65
+        },
+        {
+          "name": "Virtual Immersion",
+          "slug": "virtual-immersion",
+          "definition": "The state of being deeply engaged or absorbed in a virtual environment.",
+          "searchTerms": ["virtual immersion", "VR immersion", "immersive experience"],
+          "popularity": 60
+        }
+      ]
+    },
+    "communication": {
+      "title": "Virtual Communication",
+      "description": "Virtual meetings, conferences, and digital collaboration",
+      "keywords": [
+        {
+          "name": "Virtual Meeting",
+          "slug": "virtual-meeting",
+          "definition": "A meeting conducted over the internet using video conferencing software rather than meeting in person.",
+          "searchTerms": ["virtual meeting", "online meeting", "video conference"],
+          "popularity": 95
+        },
+        {
+          "name": "Virtual Conference",
+          "slug": "virtual-conference",
+          "definition": "An online event that brings together participants from different locations to share information and ideas.",
+          "searchTerms": ["virtual conference", "online conference", "digital conference"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Event",
+          "slug": "virtual-event",
+          "definition": "An organized gathering that takes place online rather than in a physical location.",
+          "searchTerms": ["virtual event", "online event", "digital event"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Classroom",
+          "slug": "virtual-classroom",
+          "definition": "An online learning environment where students and teachers interact through the internet.",
+          "searchTerms": ["virtual classroom", "online classroom", "digital classroom"],
+          "popularity": 75
+        },
+        {
+          "name": "Virtual Collaboration",
+          "slug": "virtual-collaboration",
+          "definition": "Working together with others through digital platforms and online tools.",
+          "searchTerms": ["virtual collaboration", "online collaboration", "remote collaboration"],
+          "popularity": 70
+        },
+        {
+          "name": "Virtual Presentation",
+          "slug": "virtual-presentation",
+          "definition": "A presentation delivered through digital platforms to remote audiences.",
+          "searchTerms": ["virtual presentation", "online presentation", "webinar"],
+          "popularity": 65
+        },
+        {
+          "name": "Virtual Networking",
+          "slug": "virtual-networking",
+          "definition": "Building professional relationships and connections through online platforms.",
+          "searchTerms": ["virtual networking", "online networking", "digital networking"],
+          "popularity": 60
+        }
+      ]
+    },
+    "technology": {
+      "title": "Virtual Technology",
+      "description": "Virtual machines, servers, and infrastructure",
+      "keywords": [
+        {
+          "name": "Virtual Machine",
+          "slug": "virtual-machine",
+          "definition": "A software emulation of a computer system that runs on top of a physical computer.",
+          "searchTerms": ["virtual machine", "VM", "virtualization"],
+          "popularity": 95
+        },
+        {
+          "name": "Virtual Server",
+          "slug": "virtual-server",
+          "definition": "A server that shares hardware and software resources with other operating systems.",
+          "searchTerms": ["virtual server", "VPS", "virtual private server"],
+          "popularity": 90
+        },
+        {
+          "name": "Virtual Desktop",
+          "slug": "virtual-desktop",
+          "definition": "A desktop environment that is separated from the physical machine and accessed remotely.",
+          "searchTerms": ["virtual desktop", "VDI", "desktop virtualization"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Network",
+          "slug": "virtual-network",
+          "definition": "A network that is implemented in software rather than hardware.",
+          "searchTerms": ["virtual network", "VPN", "software-defined network"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Storage",
+          "slug": "virtual-storage",
+          "definition": "Storage that is abstracted from physical storage devices and presented as a logical unit.",
+          "searchTerms": ["virtual storage", "storage virtualization", "cloud storage"],
+          "popularity": 75
+        },
+        {
+          "name": "Virtual Memory",
+          "slug": "virtual-memory",
+          "definition": "A memory management technique that provides an idealized abstraction of storage resources.",
+          "searchTerms": ["virtual memory", "paging", "memory management"],
+          "popularity": 70
+        },
+        {
+          "name": "Virtual Infrastructure",
+          "slug": "virtual-infrastructure",
+          "definition": "IT infrastructure that is virtualized and delivered as a service.",
+          "searchTerms": ["virtual infrastructure", "cloud infrastructure", "IaaS"],
+          "popularity": 65
+        },
+        {
+          "name": "Virtual Appliance",
+          "slug": "virtual-appliance",
+          "definition": "A pre-configured virtual machine image ready to run on a virtualization platform.",
+          "searchTerms": ["virtual appliance", "VM appliance", "packaged software"],
+          "popularity": 60
+        }
+      ]
+    },
+    "business": {
+      "title": "Virtual Business",
+      "description": "Virtual assistants, offices, and digital business solutions",
+      "keywords": [
+        {
+          "name": "Virtual Assistant",
+          "slug": "virtual-assistant",
+          "definition": "An AI-powered software application that performs tasks or services through voice commands or text input.",
+          "searchTerms": ["virtual assistant", "AI assistant", "digital assistant"],
+          "popularity": 95
+        },
+        {
+          "name": "Virtual Office",
+          "slug": "virtual-office",
+          "definition": "A service that provides businesses with a professional address and office-related services without physical office space.",
+          "searchTerms": ["virtual office", "remote office", "digital workplace"],
+          "popularity": 90
+        },
+        {
+          "name": "Virtual Team",
+          "slug": "virtual-team",
+          "definition": "A group of people who work together from different geographic locations using technology.",
+          "searchTerms": ["virtual team", "remote team", "distributed team"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Currency",
+          "slug": "virtual-currency",
+          "definition": "A digital representation of value that functions as a medium of exchange in virtual environments.",
+          "searchTerms": ["virtual currency", "digital currency", "cryptocurrency"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Workplace",
+          "slug": "virtual-workplace",
+          "definition": "A work environment that allows employees to work from any location using technology.",
+          "searchTerms": ["virtual workplace", "remote workplace", "digital workspace"],
+          "popularity": 75
+        },
+        {
+          "name": "Virtual Commerce",
+          "slug": "virtual-commerce",
+          "definition": "Buying and selling of goods and services in virtual environments.",
+          "searchTerms": ["virtual commerce", "v-commerce", "virtual shopping"],
+          "popularity": 70
+        },
+        {
+          "name": "Virtual Customer Service",
+          "slug": "virtual-customer-service",
+          "definition": "Customer support provided through digital channels and automated systems.",
+          "searchTerms": ["virtual customer service", "AI customer service", "chatbot support"],
+          "popularity": 65
+        },
+        {
+          "name": "Virtual Enterprise",
+          "slug": "virtual-enterprise",
+          "definition": "A business model that operates primarily through digital means with minimal physical presence.",
+          "searchTerms": ["virtual enterprise", "digital business", "online business"],
+          "popularity": 60
+        }
+      ]
+    },
+    "entertainment": {
+      "title": "Virtual Entertainment",
+      "description": "Virtual tours, museums, and entertainment experiences",
+      "keywords": [
+        {
+          "name": "Virtual Tour",
+          "slug": "virtual-tour",
+          "definition": "A digital simulation of an existing location composed of sequences of videos or still images.",
+          "searchTerms": ["virtual tour", "360 tour", "virtual walkthrough"],
+          "popularity": 90
+        },
+        {
+          "name": "Virtual Museum",
+          "slug": "virtual-museum",
+          "definition": "A digital exhibition space that presents museum collections through online platforms.",
+          "searchTerms": ["virtual museum", "online museum", "digital museum"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Concert",
+          "slug": "virtual-concert",
+          "definition": "A live or recorded musical performance that is broadcast or streamed online.",
+          "searchTerms": ["virtual concert", "online concert", "live stream concert"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Game",
+          "slug": "virtual-game",
+          "definition": "A video game that creates an immersive virtual environment for players.",
+          "searchTerms": ["virtual game", "VR game", "immersive game"],
+          "popularity": 75
+        },
+        {
+          "name": "Virtual Experience",
+          "slug": "virtual-experience",
+          "definition": "An interactive digital encounter that simulates real-world or imaginary environments.",
+          "searchTerms": ["virtual experience", "VR experience", "immersive experience"],
+          "popularity": 70
+        },
+        {
+          "name": "Virtual Theater",
+          "slug": "virtual-theater",
+          "definition": "Theatrical performances presented through digital platforms or virtual reality.",
+          "searchTerms": ["virtual theater", "online theater", "digital performance"],
+          "popularity": 65
+        },
+        {
+          "name": "Virtual Sports",
+          "slug": "virtual-sports",
+          "definition": "Computer-simulated sporting events or physical sports played in virtual environments.",
+          "searchTerms": ["virtual sports", "esports", "digital sports"],
+          "popularity": 60
+        },
+        {
+          "name": "Virtual Gallery",
+          "slug": "virtual-gallery",
+          "definition": "An online space where art and exhibitions are displayed digitally.",
+          "searchTerms": ["virtual gallery", "online gallery", "digital art gallery"],
+          "popularity": 55
+        }
+      ]
+    },
+    "education": {
+      "title": "Virtual Education",
+      "description": "Virtual learning, training, and educational technology",
+      "keywords": [
+        {
+          "name": "Virtual Learning",
+          "slug": "virtual-learning",
+          "definition": "Education that takes place over the internet without physical classroom attendance.",
+          "searchTerms": ["virtual learning", "online learning", "e-learning"],
+          "popularity": 90
+        },
+        {
+          "name": "Virtual Training",
+          "slug": "virtual-training",
+          "definition": "Professional development or skill training conducted through digital platforms.",
+          "searchTerms": ["virtual training", "online training", "digital training"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Laboratory",
+          "slug": "virtual-laboratory",
+          "definition": "A computer-based environment where students can conduct experiments and research.",
+          "searchTerms": ["virtual laboratory", "virtual lab", "online lab"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Simulation",
+          "slug": "virtual-simulation",
+          "definition": "Computer-generated scenarios used for training, education, or research purposes.",
+          "searchTerms": ["virtual simulation", "VR simulation", "training simulation"],
+          "popularity": 75
+        },
+        {
+          "name": "Virtual Tutor",
+          "slug": "virtual-tutor",
+          "definition": "An AI-powered system that provides personalized instruction and guidance to students.",
+          "searchTerms": ["virtual tutor", "AI tutor", "digital tutor"],
+          "popularity": 70
+        }
+      ]
+    },
+    "healthcare": {
+      "title": "Virtual Healthcare",
+      "description": "Telemedicine, virtual consultations, and digital health solutions",
+      "keywords": [
+        {
+          "name": "Virtual Consultation",
+          "slug": "virtual-consultation",
+          "definition": "Medical consultation conducted remotely using video conferencing technology.",
+          "searchTerms": ["virtual consultation", "telemedicine", "online consultation"],
+          "popularity": 90
+        },
+        {
+          "name": "Virtual Therapy",
+          "slug": "virtual-therapy",
+          "definition": "Mental health or physical therapy sessions conducted through digital platforms.",
+          "searchTerms": ["virtual therapy", "online therapy", "teletherapy"],
+          "popularity": 85
+        },
+        {
+          "name": "Virtual Surgery",
+          "slug": "virtual-surgery",
+          "definition": "Computer-simulated surgical procedures used for training or planning.",
+          "searchTerms": ["virtual surgery", "surgical simulation", "VR surgery"],
+          "popularity": 80
+        },
+        {
+          "name": "Virtual Patient",
+          "slug": "virtual-patient",
+          "definition": "Computer-generated patient scenarios used for medical training and education.",
+          "searchTerms": ["virtual patient", "simulated patient", "digital patient"],
+          "popularity": 75
+        },
+        {
+          "name": "Virtual Rehabilitation",
+          "slug": "virtual-rehabilitation",
+          "definition": "Physical or cognitive rehabilitation therapy using virtual reality technology.",
+          "searchTerms": ["virtual rehabilitation", "VR therapy", "digital rehabilitation"],
+          "popularity": 70
+        }
+      ]
+    }
+  }
+}
